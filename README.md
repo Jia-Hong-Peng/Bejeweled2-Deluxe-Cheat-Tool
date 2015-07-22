@@ -80,8 +80,17 @@ offset = 00015DF0 (記住此值)
 ![](http://i.imgur.com/Qyl6SMk.png)
 
 ## Step5 ##
-source code 裡加入address和offset，就可以製作遊戲修改器啦！
+source code 裡加入address和offset
 ![](http://i.imgur.com/koUtG7t.png)
+
 
 ![](http://i.imgur.com/3juYHce.png)
 
+[點此下載遊戲修改器](https://drive.google.com/open?id=0BzUSEyOU2e3zQ000VW45QnIzcXc)
+
+
+## 參考文獻 ##
+- http://forum.gamer.com.tw/C.php?bsn=02450&snA=674
+- http://blog.yam.com/celearning/article/35309209
+- http://www.bcwhy.com/thread-21055-1-1.html
+- http://bejeweled-2-deluxe.soft32.com/
